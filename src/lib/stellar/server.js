@@ -5,7 +5,7 @@ import has from 'lodash/has'
 const serverAddresses = {
   public: 'https://horizon.stellar.org',
   test: 'https://horizon-testnet.stellar.org',
-  local: 'http://52.211.78.99:8001',
+  local: 'http://127.0.0.1:8001',
 }
 
 /**
